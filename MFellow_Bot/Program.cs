@@ -10,7 +10,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 
-string key = "5491238683:AAHguteoVqEiTnuJCO8w6RBtvpu4NqF08t8";
+string key = "TOKEN";
 
 //This is a new movie object
 var movie = new D();
