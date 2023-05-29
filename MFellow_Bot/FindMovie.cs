@@ -10,7 +10,7 @@ namespace MFellow_Bot
     public class FindMovie
     {
         //This method is getting info about movies. String message is an actual
-        //user message that we can use for a specific call. Dependency injection forever=)
+        //user message that we can use for a specific call.
         public static async Task<D> MovieInform(string message)
         {
             var movie = new D();
